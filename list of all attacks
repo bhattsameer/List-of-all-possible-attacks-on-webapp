@@ -1,0 +1,58 @@
+List of all possible attacks on webapp
+
+01. Sql Injection Attack
+02. Hibernate Query Language Injection
+03. Direct OS Code Injection
+04. XML Entity Injection
+05. Broken Authentication and Session Management
+06. Cross-Site Scripting (XSS)
+07. Insecure Direct Object References
+08. Security Misconfiguration
+09. Sensitive Data Exposure
+10. Missing Function Level Access Control
+11. Cross-Site Request Forgery (CSRF)
+12. Using Components with Known Vulnerabilities
+13. Unvalidated Redirects and Forwards
+14. ClickjackingAttacks
+15. DNS Cache Poisoning
+16. Symlinking – An Insider Attack
+17. Remote Code Execution Attacks
+18. Remote File inclusion
+19. Local file inclusion
+20. Evercookie
+21. Denial of Service Attack
+22. Cookie Eviction
+23. phpwn
+24. NAT Pinning
+25. XSHM
+26. MitM DNS Rebinding SSL/TLS Wildcards and XSS
+27. Quick Proxy Detection
+28. Improving HTTPS Side Channel Attacks
+29. Side Channel Attacks in SSL
+30. Turning XSS into Clickjacking
+31. Bypassing CSRF protections with ClickJacking
+32. HTTP Parameter Pollution
+33. URL Hijacking
+34. Strokejacking
+35. Fooling B64_Encode(Payload) on WAFs and filters
+36. MySQL Stacked Queries with SQL Injection
+37. Posting raw XML cross-domain
+38. Generic cross-browser cross-domain theft
+39. Attacking HTTPS with Cache Injection
+40. Tapjacking
+41. XSS-Track
+42. Next Generation Clickjacking
+43. XSSing client-side dynamic HTML.
+44. Stroke triggered XSS and StrokeJacking
+45. Lost in Translation
+46. Persistent Cross Interface Attacks
+47. Chronofeit Phishing
+48. SQLi filter evasion cheat sheet (MySQL)
+49. Tabnabbing
+50. UI Redressing
+51. Cookie Poisoning
+52. SSRF
+53. Bruteforce of PHPSESSID
+54. Blended Threats and JavaScript
+55. Cross-Site Port Attacks
+56. CAPTCHA Re-Riding Attack
