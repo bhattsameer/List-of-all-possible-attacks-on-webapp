@@ -3,7 +3,7 @@ List of all possible attacks on webapp
 01. Sql Injection Attack
 02. Hibernate Query Language Injection
 03. Direct OS Code Injection
-04. XML Entity Injection
+04. XML Entity Injection(XXE)
 05. Broken Authentication and Session Management
 06. Cross-Site Scripting (XSS)
 07. Insecure Direct Object References
@@ -56,3 +56,4 @@ List of all possible attacks on webapp
 54. Blended Threats and JavaScript
 55. Cross-Site Port Attacks
 56. CAPTCHA Re-Riding Attack
+57. CRLF
