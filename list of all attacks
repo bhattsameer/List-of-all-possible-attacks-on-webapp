@@ -58,3 +58,4 @@ List of all possible attacks on webapp
 56. CAPTCHA Re-Riding Attack
 57. CRLF
 58. CORS (Cross Origin Resources Sharing)
+59. SSL Strip
